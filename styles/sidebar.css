@@ -1,0 +1,106 @@
+.sidebar{
+    display: flex;
+    flex-direction: column;
+    justify-content: start;
+    align-items: center;
+    position: fixed;
+    left: 0px;
+    bottom: 0px;
+    top: 50px;
+    background-color: white;
+}
+
+.home-img{
+    width: 24px;
+}
+.home-button{
+    background-color: white;
+    border: none;
+    width: 70px;
+    height: 75px;
+}
+.home-button:hover{
+    background-color: rgb(230, 229, 229);
+    cursor: pointer;
+
+}
+
+.explore-img{
+    width: 24px;
+    padding-left: 4px;
+}
+.explore-button{
+    background-color: white;
+    border: none;
+    width: 70px;
+    height: 75px;
+}
+.explore-button:hover{
+    background-color: rgb(230, 229, 229);
+    cursor: pointer;
+}
+
+.subscription-img{
+    width: 24px;
+    padding-left: 0px;
+}
+.subscription-button{
+    background-color: white;
+    border: none;
+    width: 70px;
+    height: 75px;
+}
+.subscription-button:hover{
+    background-color: rgb(230, 229, 229);
+    cursor: pointer;
+}
+
+.originals-img{
+    width: 24px;
+}
+.originals-button{
+    background-color: white;
+    border: none;
+    width: 70px;
+    height: 75px;
+}
+.originals-button:hover{
+    background-color: rgb(230, 229, 229);
+    cursor: pointer;
+}
+
+.youtubemusic-img{
+    width: 24px;
+}
+.youtubemusic-button{
+    background-color: white;
+    border: none;
+    width: 77px;
+    height: 75px;
+}
+.youtubemusic-button:hover{
+    background-color: rgb(230, 229, 229);
+    cursor: pointer;
+}
+
+.library-img{
+    width: 24px;
+}
+.library-button{
+    background-color: white;
+    border: none;
+    width: 70px;
+    height: 75px;
+}
+.library-button:hover{
+    background-color: rgb(230, 229, 229);
+    cursor: pointer;
+}
+
+.sidebar-text{
+    font-weight: 200;
+    font-size: 10px;
+    align-content: center;
+    
+}
+
